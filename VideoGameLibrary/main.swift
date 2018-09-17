@@ -8,5 +8,37 @@
 
 import Foundation
 
-print("Hello, World!")
+//Features
+/*
+ -List of games
+ -Navigate library
+ -Add games
+ -Remove games
+ -List all games
+ -List a games dicription
+ -Checkout games
+ -Checkin games
+ */
+
+
+//OutLine
+/*
+                      1. Greet user
+                      2. Show menu
+   |--------|---------|-------|---------|--------|---------|
+   add      remove  List    CheckOut  CheckIn  List      List
+   games    games   all     games     games    CheckedIn CheckedOut
+                    games                      Games      Games
+ */
+
+
+
+//Subscrips Needd
+/*
+ -Game class
+ -array of games
+ -a way to manage the array of games
+ */
+
+menu.go()
 
